@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "supabase/migrations/20260705183821_b44544b3-8477-436e-80fa-5adfe37adcb9.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260705183858_2eb1a0ce-df2e-40d0-80b5-40189eb9527c.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260705230127_66058584-04a2-4246-aff6-04d2a40f7d6a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706003244_624d1e99-506b-456b-b68b-d5334cbfb90e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706003836_0151b95b-450d-41c7-882b-a174a2b9f410.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706010635_a0ec5a4a-6c0d-4dd8-a477-d04612a82ffc.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706010947_33548a26-c42f-4579-b0be-05e2b28d873e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706011253_1f56baac-e025-4e26-90f0-ce0dbcd2880a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706014019_4a417632-1264-4d9d-ba9d-f33209fdc245.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706024402_bf324298-713f-4e3e-b4ed-61ca78533518.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706025412_b37d00c0-61b5-4895-8ad0-f9962f24f0e3.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706033415_3382380f-ebdc-4822-a6ca-188b3bae25a7.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706040910_cdf06a92-62c4-4ce6-a392-ea1b2de687ef.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706041310_97becacd-9f03-4ba4-bced-fc2918de4115.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706041932_677bdc79-c1f2-4f5c-ab48-467adf331655.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706042405_1b882f64-72ef-4adf-bfbb-6dab6eea4c35.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706042959_8b3e1759-18fc-4978-9906-fbe8ccd271bd.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706044602_bb5c1631-1f2e-488e-a93b-ea71187e3ea8.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706050156_7a57916c-df13-47f1-8f29-e533ac39ab08.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706052608_18caf0d8-ae18-4178-a40a-a45644c8b5c6.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706065003_35b865b7-1b46-432a-b8ef-bbaf4d8872b1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706065403_09ae7f26-9afd-448a-9805-4819c0ff647f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706094141_c0a69a96-497c-4f75-b54b-750ff053b659.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706111241_01cbc8ea-cca5-41de-bc93-19efa91750c1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706193500_0a7898f6-04bb-48c6-8540-2d3747e21925.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260706194046_fb867290-fa5c-4a4c-a234-1f465505c7ba.sql",
+      "binary": false
+    },
+    {
+      "path": "tailwind.config.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/__init__.py",
+      "binary": false
+    },
+    {
+      "path": "tests/__pycache__/__init__.cpython-313.pyc",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/__init__.py",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/__pycache__/__init__.cpython-313.pyc",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/__pycache__/test_video_dir_resolution.cpython-313-pytest-9.1.1.pyc",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/__pycache__/video_dir_resolver.cpython-313.pyc",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/test_update_home_reference_tolerance.sh",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/test_validate_workflow_dispatch_inputs.sh",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/test_video_dir_resolution.py",
+      "binary": false
+    },
+    {
+      "path": "tests/ci/video_dir_resolver.py",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/README.md",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/admin-auth-guard-non-admin.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/admin-auth-guard-signed-in.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/admin-auth-guard.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/agent-apply-responsive.py",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/agent-apply-role-states.py",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/agent-dashboard-gate.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/dashboard-rpc-smoke.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/deposit-centre.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/helpers/admin-session.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/lucky-hub.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/rewards-centre.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/rewards-feed.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/e2e/screenshots/agent-apply-mobile.png",
+      "binary": true
+    },
+    {
+      "path": "tests/e2e/screenshots/agent-apply-tablet.png",
+      "binary": true
+    },
+    {
+      "path": "tests/e2e/screenshots/role-approved.png",
+      "binary": true
+    },
+    {
+      "path": "tests/e2e/screenshots/role-non-agent.png",
+      "binary": true
+    },
+    {
+      "path": "tests/e2e/screenshots/role-pending.png",
+      "binary": true
+    },
+    {
+      "path": "tests/e2e/wallet-centre.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/.env.example",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/README.md",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-390-crypto-trading.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-390-live-winners.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-390-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-390-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-430-crypto-trading.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-430-live-winners.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-430-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/mobile-430-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-1023-crypto-trading.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-1023-live-winners.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-1023-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-1023-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-768-crypto-trading.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-768-live-winners.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-768-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-hero-cards.spec.ts/tablet-768-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/card-5d-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/card-crypto-trading.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/card-live-winners.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/card-win-go.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/cta-deposit.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/cta-history.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/cta-transfer.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/cta-withdraw.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-mobile-neon.spec.ts/hero-neon-full.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/home-polish-layout.spec.ts/home-polish-desktop-first-screen.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/profile-command-center-parity.spec.ts/pcc-desktop-1440.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__screenshots__/profile-command-center-parity.spec.ts/pcc-mobile-430.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__snapshots__/section01-1000.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__snapshots__/section01-1024.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/__snapshots__/section01-1050.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/about-marquee-reduced-motion.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/actual-1000.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/actual-1024.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/actual-1050.png",
+      "binary": true
+    },
+    {
+      "path": "tests/visual/all-home-tickers-reduced-motion.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/cross-route-tickers-reduced-motion.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/games-premium-empty.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/games-premium-filters.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/helpers/reduced-motion.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-desktop-hero-banners-parity.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-desktop-hero-banners.spec.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InRlc3RzL3Zpc3VhbC9ob21lLWRlc2t0b3AtaGVyby1iYW5uZXJzLnNwZWMudHMifQ"
+  },
+  "ref": "HEAD"
+}

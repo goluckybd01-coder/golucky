@@ -1,0 +1,69 @@
+# AviatorServerSeedField — Props
+
+Role-gated renderer for `aviator_rounds.server_seed`. Only `super_admin` users
+trigger a fetch; everyone else sees a "Hidden" fallback and no query runs.
+
+## Props
+
+| Prop                  | Type                                                          | Default     | Description                                                              |
+| --------------------- | ------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------ |
+| `roundId`             | `string \| null`                                              | —           | Aviator round to load the seed for.                                      |
+| `label`               | `string`                                                      | `"Server Seed"` | Field label.                                                         |
+| `retryBaseMs`         | `number`                                                      | `500`       | Base exponential backoff delay (doubles per attempt).                    |
+| `retryMaxMs`          | `number`                                                      | `30_000`    | Hard cap for each backoff delay.                                         |
+| `retryMaxAttempts`    | `number`                                                      | `Infinity`  | Stop retrying after this many attempts.                                  |
+| `retryJitterPct`      | `number` (0–1)                                                | `0`         | Random jitter fraction applied to each delay.                            |
+| `onRetryAttempt`      | `(attempt, delayMs) => void`                                  | —           | Fires when a retry fetch starts (after the wait).                        |
+| `onRetrySchedule`     | `(attempt, delayMs, retryTime) => void`                       | —           | Fires the instant a retry is scheduled (before the wait). See below.     |
+| `onRetrySuccess`      | `() => void`                                                  | —           | Fires once when a fetch succeeds after at least one retry.               |
+| `onRetryLimitReached` | `() => void`                                                  | —           | Fires once when `retryMaxAttempts` is hit while still failing.           |
+
+## `onRetrySchedule(attempt, delayMs, retryTime)`
+
+Called the moment the user clicks **Retry**, before the backoff wait begins.
+
+- `attempt` — 1-based index of the upcoming retry. Label your countdown with this.
+- `delayMs` — final jittered + capped delay that will be waited.
+- `retryTime` — absolute `Date.now()`-style epoch (ms) when the fetch will fire. Drive a countdown by diffing against `Date.now()`.
+
+### Countdown UI snippet
+
+```tsx
+import { useEffect, useRef, useState } from "react";
+import { AviatorServerSeedField } from "@/components/aviator/AviatorServerSeedField";
+
+export function SeedWithCountdown({ roundId }: { roundId: string }) {
+  const [label, setLabel] = useState<string | null>(null);
+  const rafRef = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (rafRef.current) cancelAnimationFrame(rafRef.current);
+  }, []);
+
+  return (
+    <div>
+      {label && <p className="text-xs text-muted-foreground">{label}</p>}
+      <AviatorServerSeedField
+        roundId={roundId}
+        retryBaseMs={1000}
+        retryMaxMs={15_000}
+        retryJitterPct={0.25}
+        onRetrySchedule={(attempt, delayMs, retryTime) => {
+          const tick = () => {
+            const remaining = Math.max(0, retryTime - Date.now());
+            if (remaining === 0) {
+              setLabel(`Retry #${attempt} running…`);
+              return;
+            }
+            setLabel(`Retry #${attempt} in ${Math.ceil(remaining / 1000)}s (${delayMs}ms)`);
+            rafRef.current = requestAnimationFrame(tick);
+          };
+          tick();
+        }}
+        onRetrySuccess={() => setLabel(null)}
+        onRetryLimitReached={() => setLabel("Retry limit reached")}
+      />
+    </div>
+  );
+}
+```

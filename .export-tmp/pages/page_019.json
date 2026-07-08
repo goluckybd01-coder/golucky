@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "supabase/migrations/20260124082744_14a7694c-aa41-4d9a-be33-6108648f058c.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260124084600_d137af28-07f4-4a8f-a559-6114c0c6e190.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260124140433_8da89c70-d946-4af3-bf00-800f78c7c261.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260124153409_073f41cd-439b-4c8f-b241-6f58509b66b9.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260125060616_a7fd2edf-2b03-4fc9-8692-61d9982d8d7f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260125181934_e170853c-d604-4221-bf3f-e0c2d0fca92a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260131201534_fdd90a71-205e-4b70-b05f-cd468bcc9e52.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260131235141_7c30d35d-f1c2-45f4-9e70-0c1166b62e7f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260202081525_8278dbcc-ec7f-4060-ae13-1e1d65b82d55.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626040532_9b4470c4-5da3-4904-ab5b-9346c36dc403.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626052953_afe0039b-d4a2-4481-98df-766193609a15.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626053301_fe4b9852-8405-4f5d-a01c-9f54310e5899.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626053516_37635414-00d7-4055-8301-0dd767b81a5e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626054742_385e5853-36cb-4339-a8b1-2cde64581704.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626071457_ee4b5cc0-bc1c-465e-96f0-2ad9ea8ef554.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626072345_a793bbcc-1891-4f29-bf73-d256dca8fd23.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626072656_502fb857-4da6-4b52-ad34-6b56f0dba24a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626112051_3ba2753c-af4d-49d2-97a6-3ce1ca110fa2.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626120603_9bf75186-df2e-4f87-af1b-20517e899d36.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626144241_5e3fd758-0f8b-49e3-9ce5-f23ccb16df9e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626151136_4e51103a-5d37-451c-9ab4-91a2508fe405.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626152816_1bdb1231-47bb-40cc-8cf1-87c50777eaba.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626155518_e6b23647-ca48-487e-addf-4b4878af4b4d.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626160116_8be458bd-0cc4-419f-9e8c-edfa2c3590e3.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626231904_69df3b8e-e61f-479c-b6d8-3455a7006c70.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260626234850_1add8fd3-1b0f-4778-890c-f16bd1d17b7b.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627003247_8218301c-0af0-4477-ac13-215499affa0c.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627003526_fd90dce0-419f-40c8-ab89-e0e826857e90.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627004302_bbefc73f-5aa6-4ccc-a8d2-bc42c68c7d45.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627011506_9ae76494-1725-4f13-8bb4-8f4d4d2d9bc5.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627012505_332df783-e0c4-45bf-ba6d-b81557801788.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627020118_4a9c0eb1-7157-4f1b-ac17-0465bdeb7a28.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627020203_183b7f26-0728-4c6f-a652-f07b9ee813c0.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627191257_a63da2a3-8549-4db6-8cf9-eb2b44864953.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627191435_email_infra.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627235006_151bb8e1-de22-4210-9432-70f7f5d59a16.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627235433_12073833-f711-4795-b204-16aef57b6f04.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260627235529_8efcbab1-5252-46be-8866-51de8bd069cd.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628001322_58ca3118-0cbe-44da-9dd3-98b7f9062e7f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628001808_d7835f4d-4074-4dc8-865c-f32e2f121dac.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628004434_b9e96c79-94b5-4197-a7d1-fdcb7f9849b3.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628052707_36cf699e-6742-441c-b072-1ff900fec6cd.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628074355_36442d96-7fea-436c-b1fb-acb4a4deaabf.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628081001_b83261ac-b044-46f3-84f5-c20cbb6bc258.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628202854_5c5cfcd4-34f4-463f-a774-7feedd3f8995.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628210140_a44bf6b7-f1ac-4ada-8501-bca0197de93b.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628214659_bc1d167d-5272-4114-8197-f56796c0cf80.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628221322_2b8987b2-81f6-4f0d-be4b-9ff3ac198a65.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260628231928_2d3195be-f5af-444f-a47d-296ddd64f8e1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629090117_a71ec3c1-be14-4ceb-96f2-4b6ca3786437.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629093907_ed85cae2-d6e5-4c93-9fec-d1f7484005eb.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629100427_6791e2b2-c607-4d2b-a728-51a33655a74f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629100707_c6b70513-ad02-4c5b-9e6c-8cc31386acb7.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629101308_0f1e1260-b358-4f8d-a62f-41993db39883.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629103907_86a09d94-9f95-4844-b811-9d4fdc6b56b1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260629104621_e7a285ca-9f46-475e-b429-ac770ae60d9b.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260630051323_3e7fad6b-dd01-4a2b-8296-69e1dfc9fcde.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260630061429_c08d334f-f6a8-41fc-be8d-bd5aea376a2d.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260630062105_81ab2c89-e26d-4344-91df-b818c58a7a61.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260630091855_a5b5b67f-f9ae-4e45-9a1e-14c77e09de03.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701020656_492a80b9-0c16-494b-bce7-ff2a6a5047d9.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701020733_193abc94-4ad7-4316-9f78-e0bc98f930fa.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701020958_b30f547b-86a8-4119-a55f-00fa0359dfd1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701021159_149e7e49-fd16-468b-90e5-a08da8d4d08e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701025840_9b80a908-1688-4e86-9e9d-fad7c504979d.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701030534_76b9d40e-dd24-4c71-aadc-e9aae2d9dc94.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701033350_95dc6810-606e-4e48-a1d9-0b3ab7dc53d7.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701064710_367b2968-6475-452a-8a3f-b9900cf4cb14.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701073554_77a50276-cba2-4f52-b3d2-1f058e93dbcc.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701083656_fe3c5b43-452a-4188-821f-909a1109496f.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701083748_b92705de-cd63-436c-8769-9c5518db6750.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701084343_c9023079-222a-4daa-b3aa-8ed91d441619.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701105106_0b6a722e-de25-4a31-99a5-18f1ef36d28e.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701105128_361a9177-7fc7-487e-acd6-d7e5122362f1.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701121003_faf1b861-03c9-4850-b3a6-bdc9672826c6.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701160013_808de508-8884-42a0-97a6-46b49be31ef7.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701211214_932a14ad-9817-4333-9ed8-c6d193bb695a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701223814_eb2ea0f5-a979-4b70-adf8-9b15d45039a9.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701224016_9eb03027-327e-4692-9f6d-027a09943d2c.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701224636_a72a70de-681e-423e-abbd-fa770be85015.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701225658_23dd5b9d-b1ec-4798-9c6a-6d926813c9dc.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701230544_dd6d5200-2d34-4d27-a210-bfd7d2f1b7af.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701230945_83cc2f0f-3d59-4be7-a942-4c8a0e32f825.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701231235_535acfc0-1b94-40fa-a178-364d15c0377c.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701231447_f404761b-04e2-433f-88ed-53c13e753dd5.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701232158_38ef3f6c-045e-4e64-bdcd-c91f6f8c14dd.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701232326_fb83e9dc-0be7-4e19-a07c-4a20d69b3b35.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701232712_6b43d37c-4f50-44ed-a445-5cbcd411658a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701233238_7f3754ae-ebad-4913-90fd-47cf4bbb19ed.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260701233738_8ba00b9f-7afc-420b-a482-5f2ee5b71c92.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260702013306_6f894feb-53a2-422f-93df-3b66e7ebbb19.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260702044921_fed84ad9-4b0b-42a3-9323-c9990e2b4f5d.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260702053912_3574da2b-9de5-45e1-8594-754bc12974bd.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703031243_246286a4-2441-4fe8-b13a-e4dc7105208a.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703053942_e8edf484-0fee-4579-873a-88b325992630.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703154541_478cc0b1-3618-4e4e-bb3b-c1987207d9d0.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703155052_7f3cfffd-05ed-4172-ba34-36074b689c28.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703174702_c51a654b-e895-4290-8e36-9951a945a8db.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260703235247_bb0f8c01-9ea5-4e7f-a723-16d6561ac3bf.sql",
+      "binary": false
+    },
+    {
+      "path": "supabase/migrations/20260705072319_ec62cd77-9417-4bd6-88ac-07823010f2ba.sql",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InN1cGFiYXNlL21pZ3JhdGlvbnMvMjAyNjA3MDUwNzIzMTlfZWM2MmNkNzctOTQxNy00YmQ2LTg4YWMtMDc4MjMwMTBmMmJhLnNxbCJ9"
+  },
+  "ref": "HEAD"
+}

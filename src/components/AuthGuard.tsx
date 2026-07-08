@@ -12,6 +12,7 @@ interface AuthGuardProps {
 // that import `useDemoMode` keep compiling; it always returns false.
 export const useDemoMode = () => false;
 
+
 const AuthGuard = ({ children }: AuthGuardProps) => {
   const navigate = useNavigate();
   const location = useLocation();
@@ -23,28 +24,31 @@ const AuthGuard = ({ children }: AuthGuardProps) => {
     let timeoutId: number | undefined;
     let isMounted = true;
 
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((event, session) => {
-      if (!isMounted) return;
+    // Set up auth state listener FIRST
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(
+      (event, session) => {
+        if (!isMounted) return;
 
-      setUser(session?.user ?? null);
+        setUser(session?.user ?? null);
 
-      if (!didFinishInitialCheckRef.current) {
-        didFinishInitialCheckRef.current = true;
-        setIsChecking(false);
+        // Safety: if we receive ANY auth event, we should not stay stuck in a loading state
+        if (!didFinishInitialCheckRef.current) {
+          didFinishInitialCheckRef.current = true;
+          setIsChecking(false);
+        }
+        
+        // Handle auth state changes
+        if (event === "SIGNED_OUT") {
+          navigate("/login", { replace: true });
+        }
       }
+    );
 
-      if (event === "SIGNED_OUT") {
-        navigate("/login", { replace: true });
-      }
-    });
-
+    // Then validate initial session with the auth server.
+    // getSession can return a locally cached/expired token, so use getUser for trusted auth state.
     const getInitialSession = async () => {
       try {
-        const {
-          data: { session },
-        } = await supabase.auth.getSession();
+        const { data: { session } } = await supabase.auth.getSession();
         if (!isMounted) return;
 
         if (!session) {
@@ -52,17 +56,11 @@ const AuthGuard = ({ children }: AuthGuardProps) => {
           return;
         }
 
-        const {
-          data: { user: verifiedUser },
-          error,
-        } = await supabase.auth.getUser();
+        const { data: { user: verifiedUser }, error } = await supabase.auth.getUser();
         if (!isMounted) return;
 
         if (error || !verifiedUser) {
-          console.warn(
-            "[AuthGuard] Cached session is invalid; signing out locally.",
-            error?.message,
-          );
+          console.warn("[AuthGuard] Cached session is invalid; signing out locally.", error?.message);
           setUser(null);
           await supabase.auth.signOut({ scope: "local" });
           return;
@@ -80,12 +78,11 @@ const AuthGuard = ({ children }: AuthGuardProps) => {
       }
     };
 
+    // Absolute safety fallback: never let the whole app stay on "Loading..." forever.
     timeoutId = window.setTimeout(() => {
       if (!isMounted) return;
       if (!didFinishInitialCheckRef.current) {
-        console.warn(
-          "[AuthGuard] Session check timeout — continuing without blocking UI.",
-        );
+        console.warn("[AuthGuard] Session check timeout — continuing without blocking UI.");
         didFinishInitialCheckRef.current = true;
         setIsChecking(false);
       }
@@ -105,32 +102,21 @@ const AuthGuard = ({ children }: AuthGuardProps) => {
     import.meta.env.VITE_E2E_AUTH_BYPASS === "1" &&
     new URLSearchParams(location.search).get("e2e") === "1";
 
-  // Read-only visual preview for Home Section 01 only. Explicitly excludes any
-  // gambling, wallet, or admin surface — those must always require a real
-  // session even if `?preview=1` is appended.
   const previewBypass =
     new URLSearchParams(location.search).get("preview") === "1" &&
     (location.pathname === "/home" || location.pathname === "/");
 
   useEffect(() => {
     if (isChecking) return;
-
     const currentPath = location.pathname;
     const isLoggedIn = !!user || e2eBypass;
-    const isLoggedInOrPreview = isLoggedIn || previewBypass;
-
     const publicRoutes = ["/login", "/register", "/forgot-password", "/install"];
-    const isPublicRoute =
-      publicRoutes.includes(currentPath) || currentPath.startsWith("/__preview/");
-
+    const isPublicRoute = publicRoutes.includes(currentPath) || currentPath.startsWith("/__preview/");
     const isAdminRoute = currentPath.startsWith("/admin");
     const isWelcomeRoute = currentPath === "/welcome";
-
-    const isProtectedRoute =
-      ["/home", "/activity", "/promotion", "/wallet", "/account"].includes(
-        currentPath,
-      ) ||
-      currentPath.startsWith("/game/") ||
+    const protectedRoutes = ["/home", "/activity", "/promotion", "/wallet", "/account"];
+    const isProtectedRoute = protectedRoutes.includes(currentPath) || 
+      currentPath.startsWith("/game/") || 
       currentPath.startsWith("/engine/") ||
       currentPath === "/wingo" ||
       currentPath === "/k3" ||
@@ -183,18 +169,18 @@ const AuthGuard = ({ children }: AuthGuardProps) => {
 
     if (isAdminRoute) return;
 
+    const isLoggedInOrPreview = isLoggedIn || previewBypass;
+
     if (!isLoggedInOrPreview && (isProtectedRoute || isWelcomeRoute)) {
       navigate("/login", { replace: true });
       return;
     }
 
     if (isLoggedIn && isPublicRoute) {
-      const t = window.setTimeout(
-        () => navigate("/home", { replace: true }),
-        100,
-      );
+      const t = window.setTimeout(() => navigate("/home", { replace: true }), 100);
       return () => window.clearTimeout(t);
     }
+
   }, [location.pathname, location.search, navigate, user, isChecking, e2eBypass, previewBypass]);
 
   if (isChecking) {

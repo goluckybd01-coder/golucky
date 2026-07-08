@@ -1,0 +1,20 @@
+[
+  "src/pages/Login.tsx",
+  "src/pages/admin/FinancialDashboard.tsx",
+  "src/pages/admin/InternalAssetPrices.tsx",
+  "src/pages/admin/NewUsersPage.tsx",
+  "src/pages/admin/PremiumDepositsPage.tsx",
+  "src/pages/admin/PremiumWithdrawsPage.tsx",
+  "src/pages/admin/WithdrawalAccountsAdmin.tsx",
+  "src/pages/admin/NewTransactionsPage.tsx",
+  "src/pages/admin/AdminSettingsPage.tsx",
+  "src/pages/admin/BannersAdmin.tsx",
+  "src/pages/admin/AnnouncementsAdmin.tsx",
+  "src/pages/admin/SupportChatAdmin.tsx",
+  "src/pages/admin/AgentCommissionAdmin.tsx",
+  "src/pages/admin/RewardsAdmin.tsx",
+  "src/pages/admin/DatabaseAdmin.tsx",
+  "src/pages/admin/KycAdmin.tsx",
+  "src/pages/admin/AdminCmsFoundationPage.tsx",
+  "src/pages/admin/AdminCryptoTradingControlPage.tsx"
+]

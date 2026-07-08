@@ -1,0 +1,13 @@
+{
+  "src/pages/admin/AdminApiGameControlsPage.tsx": "API Provider Game Controls",
+  "src/pages/admin/AdminAiBuilderPage.tsx": "export default function AdminAiBuilderPage",
+  "src/pages/admin/AdminUniversalCmsPage.tsx": "Universal CMS Manager",
+  "src/pages/admin/AdminAutomationCenterPage.tsx": "export default AdminAutomationCenterPage",
+  "src/pages/admin/SuperAdminControlPage.tsx": "export default SuperAdminControlPage",
+  "src/pages/admin/AdminLoginPage.tsx": "export default AdminLoginPage",
+  "src/pages/admin/SuperAdminPage.tsx": "export default SuperAdminPage",
+  "src/pages/admin/SecurityCenter.tsx": "export default function SecurityCenter",
+  "src/pages/admin/PromotionCenter.tsx": "export default function PromotionCenter",
+  "src/pages/admin/DualWalletOverview.tsx": "export default function DualWalletOverview",
+  "src/pages/admin/UsdtDepositsAdmin.tsx": "export default function UsdtDepositsAdmin"
+}

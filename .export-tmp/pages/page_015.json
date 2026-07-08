@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/pages/HomeCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/HomeDesktop.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/HomeDesktopV2.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/HomeMobile.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Install.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/InvitationBonus.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Leaderboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Login.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Lottery.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/LuckyHub.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/LuckyHubCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/LuckySpinner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/NotFound.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Notifications.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/PersonalInformation.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Popular.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Privacy.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ProfileCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Promotion.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ProviderGames.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Register.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ResetPassword.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/RewardsCentre.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/RewardsCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/SentryTest.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Settings.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/SportsBetting.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Support.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/SupportChat.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Terms.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/TokenDetail.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/TournamentDetails.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Tournaments.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Trading.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/TradingAsset.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/TradingMarkets.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/TradingPro.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/UnifiedAdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/VIP.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/VerifyDeposit.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Wallet.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/WalletCentre.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/WalletCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/WalletHub.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/WalletPremium.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Welcome.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Withdraw.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/WithdrawAccounts.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__dev/TxProgressHarness.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/Account.memberSince.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/AccountTabs.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/AgentPayment.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/AgentPaymentStatus.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/GamesPremium.a11y.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/GamesPremium.artError.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/GamesPremium.axe.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/GamesPremium.filters.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/GamesPremium.popularArt.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/Register.mode.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/Register.submit.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/Register.submitErrors.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/Register.validation.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/ResetPassword.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/SentryTest.links.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/home-hero-artwork-coverage.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/home-layout-validator.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/home-unified-ctas.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/__tests__/luckyHubJoinNow.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/account/AccountOverview.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/account/AvatarCropModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/account/BannerCropModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/account/ProfileCommandCenter.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAdminUsersPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAgentUsdtDepositPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAgentsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAiBuilderPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminApiGameControlsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAuditLogsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminAutomationCenterPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminCmsFoundationPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminCryptoTradingControlPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminDashboardPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminDebugPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminDepositCentrePage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminDepositControlPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminDepositsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminFdUsdtControlPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminLoginPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminPaymentGatewayManagerPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminRolesPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminSettingsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminTransactionsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminUniversalCmsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminUsersPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AdminWithdrawsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AgentCommissionAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AgentPaymentAuditLogs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AgentPaymentDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AgentPaymentSettings.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AgentPaymentSubmissions.tsx",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9wYWdlcy9hZG1pbi9BZ2VudFBheW1lbnRTdWJtaXNzaW9ucy50c3gifQ"
+  },
+  "ref": "HEAD"
+}

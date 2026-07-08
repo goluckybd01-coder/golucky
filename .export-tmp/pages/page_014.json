@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/lib/depositCenterFlag.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/dualWalletService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/featureFlags.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/finnhubPrices.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/fiveDChartStats.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/fiveDRoundEngine.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/gameEngineBase.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/gameErrorLogger.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/gameHistoryService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/gameStorage.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/gameStore.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/globalErrorHandlers.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/globalGameResult.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/haptics.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/houseEdgeResult.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/idFormats.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/k3RoundEngine.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/k3RoundKey.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/memberSince.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/memberSince.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/minesEngine.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/mobilePaymentService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/numberColors.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/passwordSecurity.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/payout.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/periodNumber.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/placeBetRetry.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/profileService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/pushNotificationService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/rate.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/realtimeActivity.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/reducedMotion.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/referral.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/retry.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/roundSettlement.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/safeNavigate.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/sanitizeSegment.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/secureRewardService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/sentry.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/staffRoles.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/stressAttachArtifacts.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/supabaseClient.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/superAdminCheck.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/superAdminCheck.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tiers.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tournamentService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradeExport.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradeExport.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradeId.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradingAssets.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradingAssets.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/tradingPositions.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/translations/mines.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/usdBdt.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/utils.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/wallet.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/walletService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/winGoApiResultService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/winGoRoundEngine.ts",
+      "binary": false
+    },
+    {
+      "path": "src/main.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AIChat.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AIPredictionDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/About.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Account.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Achievements.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Activity.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ActivityAward.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Admin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AdminLogin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AdminNotificationPreferences.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AgentApply.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AgentDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AgentPayment.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AgentPaymentStatus.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AgentRegister.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Announcement.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ApiGameLaunch.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/AuthCallback.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/BettingRebate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/BinaryTrading.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Cashback.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Challenges.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/DepositCentre.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Feedback.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/FixedDeposits.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/ForgotPassword.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GameAdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GameAdminLogin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GameHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GameStats.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesCatalog.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesCmsGate.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesDesktop.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesLobby.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesLobbyDesktop.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesMobile.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/GamesPremium.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Gifts.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/Home.tsx",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9wYWdlcy9Ib21lLnRzeCJ9"
+  },
+  "ref": "HEAD"
+}
