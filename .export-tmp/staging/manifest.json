@@ -1,0 +1,14 @@
+{
+  "TxProgress.test.tsx": "src/components/wallet/TxProgress.test.tsx",
+  "RealtimeStatusBanner.test.tsx": "src/components/trading/RealtimeStatusBanner.test.tsx",
+  "RealtimeStatusBanner.tsx": "src/components/trading/RealtimeStatusBanner.tsx",
+  "context-menu.tsx": "src/components/ui/context-menu.tsx",
+  "dropdown-menu.tsx": "src/components/ui/dropdown-menu.tsx",
+  "menubar.tsx": "src/components/ui/menubar.tsx",
+  "navigation-menu.tsx": "src/components/ui/navigation-menu.tsx",
+  "CurrencySwapCard.tsx": "src/components/wallet/dual/CurrencySwapCard.tsx",
+  "MainWalletCard.tsx": "src/components/wallet/dual/MainWalletCard.tsx",
+  "QuickTransferCard.tsx": "src/components/wallet/dual/QuickTransferCard.tsx",
+  "WalletHero.tsx": "src/components/wallet/dual/WalletHero.tsx",
+  "SupportHeader.tsx": "src/components/support/SupportHeader.tsx"
+}

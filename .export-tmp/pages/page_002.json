@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "docs/PRODUCTION_LAUNCH_STATUS.md",
+      "binary": false
+    },
+    {
+      "path": "docs/a11y/tap-debug-csv-live-region-manual-tests.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-final-audit-inventory.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-health-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-module-14-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-module-15-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-navigation-audit.md",
+      "binary": false
+    },
+    {
+      "path": "docs/admin-panel-gap-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/agent-health-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/e2e/tap-debug-axe-env.md",
+      "binary": false
+    },
+    {
+      "path": "docs/fd-health-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/fd-launch-readiness-report.md",
+      "binary": false
+    },
+    {
+      "path": "docs/performance-audit-2026-07.md",
+      "binary": false
+    },
+    {
+      "path": "docs/production-launch-checklist.md",
+      "binary": false
+    },
+    {
+      "path": "docs/qa/motion-accessibility-checklist.md",
+      "binary": false
+    },
+    {
+      "path": "docs/section-01-lock.md",
+      "binary": false
+    },
+    {
+      "path": "docs/wallet-health-report.md",
+      "binary": false
+    },
+    {
+      "path": "e2e/__references__/wallet-center-reference.jpg",
+      "binary": true
+    },
+    {
+      "path": "e2e/account-hero-visual-dark.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/account-hero-visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/account-tabs-axe.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/account-tabs-keyboard.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/admin-signout.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/agent-dashboard-ids.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/attachment-name.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/attachment-upload.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-clear-url-override.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-click-save-blocked.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-http-persists-until-https.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-http-url-rejected.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-idn-clears-error.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-invalid-idn-persists.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-invalid-url-protocol.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-malformed-url.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-no-protocol-clears-live.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-preview-updates-after-fix.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-save-disabled-invalid-url.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-save.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-switch-to-url-override.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-url-error-clears-live.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-url-missing-protocol.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-url-normalization.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-url-override.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-validation.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-whitespace-only-url.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings-whitespace-url.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/badge-settings.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/binary-trading-export.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/crash-history-panel.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/demo-mode-banner.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/deposit-header-no-overlap.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/deposit-header-z-index.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/deposit-receipt-download.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/deposit-responsive.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/dual-wallet-sort-navigation.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/fixtures/home-mobile-reference.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/fixtures/section01-reference-320.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/fixtures/section01-reference-desktop.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/fixtures/section01-reference-se-landscape.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/fixtures/section01-reference-tablet.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/fixtures/section01-reference.jpeg",
+      "binary": true
+    },
+    {
+      "path": "e2e/helpers/adminAuth.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/helpers/sonner.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/helpers/vipToast.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/helpers/walletFixtures.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-agent-banner-responsive.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-banner-custom-viewports.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-desktop-first-screen-fit.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-desktop-no-black-gap.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-first-screen-fit.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-mobile-no-black-gap-viewports.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-mobile-no-black-gap.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-mobile-reference-visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-no-old-agent-banner.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts-snapshots/crypto-trading-chromium-linux.png",
+      "binary": true
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts-snapshots/hero-chromium-linux.png",
+      "binary": true
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts-snapshots/live-winners-chromium-linux.png",
+      "binary": true
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts-snapshots/wallet-overview-chromium-linux.png",
+      "binary": true
+    },
+    {
+      "path": "e2e/home-premium-sections-visual.spec.ts-snapshots/wingo-chromium-linux.png",
+      "binary": true
+    },
+    {
+      "path": "e2e/home-screen1-back-nav.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen1-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen2-back-nav.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen2-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen3-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen4-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen5-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-screen5-footer-links.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-ultra-premium-visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-unified-ctas.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/home-visual-regression.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-banner-alignment.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-banner-visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-desktop-viewports.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-fd-invest.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-feature-toggle.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-jackpot-counter.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-join-now.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-mobile-viewports.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "e2e/lucky-hub-tab-persistence.spec.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "next_cursor": "eyJ2IjoxLCJpZCI6ImUyZS9sdWNreS1odWItdGFiLXBlcnNpc3RlbmNlLnNwZWMudHMifQ",
+    "has_more": true
+  },
+  "ref": "HEAD"
+}

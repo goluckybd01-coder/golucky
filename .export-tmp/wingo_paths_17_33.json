@@ -1,0 +1,19 @@
+[
+  "src/lib/globalGameResult.ts",
+  "src/lib/betFees.ts",
+  "src/lib/adminResultService.ts",
+  "src/lib/k3RoundEngine.ts",
+  "src/lib/fiveDRoundEngine.ts",
+  "src/lib/winGoApiResultService.ts",
+  "src/lib/periodNumber.ts",
+  "src/lib/csvExport.ts",
+  "src/pages/Lottery.tsx",
+  "src/pages/GameHistory.tsx",
+  "src/pages/Leaderboard.tsx",
+  "src/pages/Announcement.tsx",
+  "src/components/aviator/AviatorGamePanel.tsx",
+  "src/components/aviator/AviatorBetPanel.tsx",
+  "src/components/game/FiveDSlotMachine.tsx",
+  "src/components/game/BetHistoryFilters.tsx",
+  "src/components/game/BetDetailsModal.tsx"
+]

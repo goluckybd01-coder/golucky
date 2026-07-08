@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/assets/games/k3-3d-new.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/k3.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/mines-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/olympus.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/roulette.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/sweet-bonanza.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-aviator.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-casino.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-casino.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-crash.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-fishing.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-fishing.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-k3.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-k3.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-lottery.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-ludo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-mini.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-plinko.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-slots.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-sports.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-sports.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-tower.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-wingo.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/tile-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/trxwin-3d-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/trxwin-3d-new.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/trxwin.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/wingo-3d-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/wingo-3d-new.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/wingo.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-crown-logo.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/golucky-crown-logo.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/golucky-logo-transparent.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-text-logo-1.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-text-logo-2.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-text-logo-clean.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-text-logo-transparent.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/golucky-text-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/hero-welcome-luckyspin.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/highlight-crypto.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/highlight-lottery.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/highlight-wingo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/highlight-winners.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/home-agent-banner.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/home-fd-banner.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/home-reference.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/nova-coin-logo.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/binance.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/bkash.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/nagad.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/novafi.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/rocket.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/upay.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment-logos/usdt.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/payment/bkash-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/nagad-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-premium-tile.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-qr-code-premium.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-qr-code.jpeg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-trc20-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/payment/usdt-trc20-premium.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/promotion/promo-3d-hero.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/pwa-icon.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/wallet-treasure-chest.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/wallet-vault-hero.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/wallet/atm-purple.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/wallet/secure-shield.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/wallet/wallet-3d-hero.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/wallet/wallet-hero-v2.png",
+      "binary": true
+    },
+    {
+      "path": "src/components/AIAssistant.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/AddReferralCodeModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/AgentHighlightBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/AuthGuard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/AuthHeader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/BetPlacedAnimation.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/BottomNav.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/ChunkErrorBoundary.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/CoinRain.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/CommissionDetailsModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/Confetti.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/DailyRewardButton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/DailyRewardModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/DemoModeBanner.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/DemoModeBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/Fireworks.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/FirstDepositBonusBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/FloatingSupport.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/GameDesktopRail.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/GameErrorBoundary.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/GameErrorBoundary.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/HomeSkeleton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/InstallPromptBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/InvitationRulesModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/LoseDisplay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/MainLayout.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/MobileContainer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/MobileSideButtons.tsx",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9jb21wb25lbnRzL01vYmlsZVNpZGVCdXR0b25zLnRzeCJ9",
+    "has_more": true
+  },
+  "ref": "HEAD"
+}

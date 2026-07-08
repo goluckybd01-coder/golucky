@@ -1,0 +1,8 @@
+[
+  "src/components/wallet/AgentTransferToUserModal.tsx",
+  "src/components/game/PredictionGoals.tsx",
+  "src/components/game/PredictionLeaderboard.tsx",
+  "src/components/game/PredictionNotifications.tsx",
+  "src/components/aviator/AviatorBetPanel.tsx",
+  "src/components/aviator/AviatorGamePanel.tsx"
+]

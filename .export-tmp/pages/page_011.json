@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/components/game/ProvablyFairDisplay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/ResultModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/RocketEngineFireParticles.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/RocketSmokeTrail.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/SuspenseReveal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/ThemeToggle.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/VolumeControl.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/WinGoChartTab.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/WinGoTrendStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/BonusGridSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/CryptoTickerStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/GamesHeroSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/HighlightsChipStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/PopularAndProviders.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/games/TodayStatsStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/AIPredictionSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/AgentProgramSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/AgentRecruitBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/ApiGameProviders.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/CompanyAboutSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/DemoGamesSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/HomeErrorBoundary.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveEarningsChart.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveRewardsTicker.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveSportsBettingSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveSuperJackpot.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveTopEarners.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveWinningInfo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LiveWinningStats.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/LotteryGameCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PopularGamesSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumAnnouncementBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumBalanceCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumGiftsBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumHeader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumLogo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PremiumSectionCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/PromoCountdown.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/ProviderGamesSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/TodayEarningChart.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/VerifiedDomainsTicker.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/WinnersMarquee.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/AIGameOptionsSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/BottomPromoRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/CategoryStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/FeaturedGamesGrid.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/HeroSplitBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/HighlightsRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/HomeUserBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/JackpotStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/LiveWinnersCompact.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/PremiumGameSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/PromoCardsRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/QuickActionsGrid.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/SmartWalletCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/Sparkline.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/TopProvidersCompact.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/TournamentEventCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/TradingMarketsSection.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/home/premium/TrustBadgesRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/lucky-hub/PremiumHubCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/lucky-hub/useCountdown.ts",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/AuroraBackdrop.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/Field.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/GlassCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/Modal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/NeonButton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/SectionHeader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/SegmentedTabs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/Toast.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/premium/index.ts",
+      "binary": false
+    },
+    {
+      "path": "src/components/profile/AvatarUpload.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/seo/Seo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/shell/AppShell.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/shell/DesktopSidebar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/shell/DesktopTopBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/shell/WalletShell.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/status/CiStatusBadge.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/status/__tests__/CiStatusBadge.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/AIChatBubble.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/ChatInput.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/ChatMessageBubble.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/ChatModeSelector.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/ChatStatusBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/EmptyChat.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/SupportBackground.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/support/SupportHeader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/templates/ExamplePage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/templates/PageScaffold.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/ActiveTradesPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/AssetRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/BetTicket.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/CandleChart.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/CountdownRing.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/MiniSparkline.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/RealtimeStatusBanner.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/RealtimeStatusBanner.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/Sparkline.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/trading/TokenLogo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/ui/ClickableCard.tsx",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9jb21wb25lbnRzL3VpL0NsaWNrYWJsZUNhcmQudHN4In0"
+  },
+  "ref": "HEAD"
+}

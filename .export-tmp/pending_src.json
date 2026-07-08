@@ -1,0 +1,16 @@
+[
+  "src/components/agent/USDTPaymentGateway.tsx",
+  "src/components/games/PopularAndProviders.tsx",
+  "src/components/home/DemoGamesSection.tsx",
+  "src/components/home/LiveEarningsChart.tsx",
+  "src/components/home/LiveSuperJackpot.tsx",
+  "src/components/home/LiveTopEarners.tsx",
+  "src/components/home/LiveWinningInfo.tsx",
+  "src/components/home/LiveWinningStats.tsx",
+  "src/components/home/PopularGamesSection.tsx",
+  "src/components/home/PremiumBalanceCard.tsx",
+  "src/components/home/ProviderGamesSection.tsx",
+  "src/components/home/TodayEarningChart.tsx",
+  "src/components/home/WinnersMarquee.tsx",
+  "src/components/profile/AvatarUpload.tsx"
+]

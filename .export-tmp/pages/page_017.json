@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/test/api-game-controls-commission-override.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-enable-disable.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-flag.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/deposit-centre-flag.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/test/deposit-centre-lock-v1.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/test/lucky-hub-lock-v3.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/test/renderWithProviders.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/test/rewards-centre-order.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/section02-no-motion.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/setup.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/wallet-centre-2026-lock-checklist.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/wallet-centre-no-demo-data.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/wallet-centre-order.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/types/toast.ts",
+      "binary": false
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/config.toml",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/email-change.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/invite.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/magic-link.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/reauthentication.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/recovery.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/email-templates/signup.tsx",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/qstash.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/_shared/redis.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/admin-create-user/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/admin-reports/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/admin-reset-password/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/admin-set-result/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/admin-totp/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-commission/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-payment-review/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-payment-submit/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-payment-submit/validation.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-payment-submit/validation_test.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-topup/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-topup/index_test.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/agent-withdraw-commission/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/ai-chat/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/ai-prediction/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-admin/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-auth/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-game-callback/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-game-launch/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-game/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-gateway-deposit-create/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-gateway/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-transactions/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-user/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/api-wallet/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/auth-email-hook/deno.json",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/auth-email-hook/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/auto-process-payouts/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/aviator-active-round/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/aviator-cashout/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/aviator-place-bet/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/bootstrap-super-admin/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/calculate-agent-salaries/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/calculate-commission/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/check-pending-requests/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/crash-active-round/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/crash-update-phase/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/daily-trading-bonus/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/escalate-critical-alerts/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/finnhub-prices/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/games-today-stats/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/live-sports-odds/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/market-prices/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/mines-cashout/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/mines-pick/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/mines-start/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/mines-verify/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/mongo-health/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/notify-admin-transaction/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/notify-agent-salary/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/payfastflow-callback/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/payfastflow-channels/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/payfastflow-deposit/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/payfastflow-gateway/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/place-bet/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/process-deposit/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/process-email-queue/deno.json",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/process-email-queue/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/process-mobile-payment/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/process-usdt-deposits/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/rapid-task/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/referral-bonus/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/referral-image/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/referral-share/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/send-email-digest/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/send-instant-alert/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/set-game-result/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/settle-bets/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/super-admin-execute/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/trade-open/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/trade-settle/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/usdt-create-order/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/usdt-deposit-request/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/usdt-gateway-create-order/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/usdt-status/index.ts",
+      "binary": false
+    },
+    {
+      "path": "supabase/functions/usdt-webhook/index.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InN1cGFiYXNlL2Z1bmN0aW9ucy91c2R0LXdlYmhvb2svaW5kZXgudHMifQ"
+  },
+  "ref": "HEAD"
+}

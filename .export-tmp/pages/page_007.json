@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "scripts/gh-curl-retry.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/lib/security-comment-urls.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/protection-dryrun-diff.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/scan-qstash-endpoints.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-baseline.txt",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-check.sql",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-findings-annotate.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-findings-comment.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-findings-to-sarif.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/security-scan-gate.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/seo-annotate.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/seo-expectations.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-gh-curl-retry.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-idem-map-concurrency.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-idem-map-validation.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-precommit-color-hook.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-protection-dryrun-diff.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-summary-tz-fuzz.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/test-summary-tz-validation.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/update-home-reference.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/update-section01-references.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/validate-workflow-dispatch-inputs.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/verify-debug-overlay-stripped.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/verify-header-overlap-required.sh",
+      "binary": false
+    },
+    {
+      "path": "scripts/verify-readme-badges.py",
+      "binary": false
+    },
+    {
+      "path": "scripts/verify-seo.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/verify-summary-rates.mjs",
+      "binary": false
+    },
+    {
+      "path": "seo-snapshots/index.html",
+      "binary": false
+    },
+    {
+      "path": "seo-snapshots/llms.txt",
+      "binary": false
+    },
+    {
+      "path": "seo-snapshots/robots.txt",
+      "binary": false
+    },
+    {
+      "path": "seo-snapshots/sitemap.xml",
+      "binary": false
+    },
+    {
+      "path": "src/App.css",
+      "binary": false
+    },
+    {
+      "path": "src/App.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/assets/account/agent-shield-g.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/account/default-avatar.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/account/vip-shield-8.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/account/wallet-coins.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/activity/activity-3d-hero.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/activity/lucky-vault-chest.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/admin-logo.jfif",
+      "binary": false
+    },
+    {
+      "path": "src/assets/agent-empire-hero-v2.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/agent-empire-hero.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/agent-programme-banner.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/aviator-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/aviator-plane-ref.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/cat-arcade.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/cat-aviator.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/cat-casino.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/cat-fishing.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/cat-slots.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/cat-sports.png.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/categories/amatic-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/bng.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/casino-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/casino.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/cq9.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/fc.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/fishing-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/fishing.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/ftg.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/jdb.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/jili.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/lottery-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/lottery.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/mini-games.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/pg-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/pg.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/popular-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/popular.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/pragmatic-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/pragmatic.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/pvc.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/reference-layout.jfif",
+      "binary": false
+    },
+    {
+      "path": "src/assets/categories/slot-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/slot.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/spade.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/sport-3d.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/sport.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/categories/zdb.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/ewallet-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/fixed-deposit-hero.jpg.asset.json",
+      "binary": false
+    },
+    {
+      "path": "src/assets/games/5d-3d-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/5d-3d-new.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/aviator-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/aviator.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/blackjack.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/cat-lottery.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/cat-sports.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/cat-trading.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-crown.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-diamond.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-elite.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-legend.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-mega.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/col-vip.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/crash-logo.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/crash.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/fishing.jpg",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/hero-golden-g.png",
+      "binary": true
+    },
+    {
+      "path": "src/assets/games/k3-3d-logo.png",
+      "binary": true
+    }
+  ],
+  "pagination": {
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9hc3NldHMvZ2FtZXMvazMtM2QtbG9nby5wbmcifQ",
+    "has_more": true
+  },
+  "ref": "HEAD"
+}

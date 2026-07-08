@@ -1,0 +1,2 @@
+src/components/home/premium/BottomPromoRow.tsx
+src/components/home/premium/CategoryStrip.tsx

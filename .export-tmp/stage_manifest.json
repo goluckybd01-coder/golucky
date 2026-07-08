@@ -1,0 +1,162 @@
+[
+  {
+    "path": "src/components/admin/AdminAgentEarningsByGame.tsx",
+    "stage": "src__components__admin__AdminAgentEarningsByGame.tsx"
+  },
+  {
+    "path": "src/components/admin/AdminCommissionAdjustment.tsx",
+    "stage": "src__components__admin__AdminCommissionAdjustment.tsx"
+  },
+  {
+    "path": "src/components/admin/AdminSalaryManagement.tsx",
+    "stage": "src__components__admin__AdminSalaryManagement.tsx"
+  },
+  {
+    "path": "src/components/admin/game-monitor/GameMonitorPanel.tsx",
+    "stage": "src__components__admin__game-monitor__GameMonitorPanel.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/EnhancedGameControlModule.tsx",
+    "stage": "src__components__admin__unified__EnhancedGameControlModule.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/GameAdminModule.tsx",
+    "stage": "src__components__admin__unified__GameAdminModule.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/GamesCatalogModule.tsx",
+    "stage": "src__components__admin__unified__GamesCatalogModule.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/StaffManagement.tsx",
+    "stage": "src__components__admin__unified__StaffManagement.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/UsersModule.tsx",
+    "stage": "src__components__admin__unified__UsersModule.tsx"
+  },
+  {
+    "path": "src/components/admin/unified/WithdrawRequestsModule.tsx",
+    "stage": "src__components__admin__unified__WithdrawRequestsModule.tsx"
+  },
+  {
+    "path": "src/components/agent/USDTPaymentGateway.tsx",
+    "stage": "src__components__agent__USDTPaymentGateway.tsx"
+  },
+  {
+    "path": "src/components/aviator/AviatorBetPanel.tsx",
+    "stage": "src__components__aviator__AviatorBetPanel.tsx"
+  },
+  {
+    "path": "src/components/aviator/AviatorGamePanel.tsx",
+    "stage": "src__components__aviator__AviatorGamePanel.tsx"
+  },
+  {
+    "path": "src/components/aviator/AviatorLiveBets.tsx",
+    "stage": "src__components__aviator__AviatorLiveBets.tsx"
+  },
+  {
+    "path": "src/components/aviator/AviatorStreakBonus.tsx",
+    "stage": "src__components__aviator__AviatorStreakBonus.tsx"
+  },
+  {
+    "path": "src/components/deposit/USDTDepositFlow.tsx",
+    "stage": "src__components__deposit__USDTDepositFlow.tsx"
+  },
+  {
+    "path": "src/components/game/AIPredictionHistory.tsx",
+    "stage": "src__components__game__AIPredictionHistory.tsx"
+  },
+  {
+    "path": "src/components/game/BetDetailsModal.tsx",
+    "stage": "src__components__game__BetDetailsModal.tsx"
+  },
+  {
+    "path": "src/components/game/BetHistoryChart.tsx",
+    "stage": "src__components__game__BetHistoryChart.tsx"
+  },
+  {
+    "path": "src/components/game/BetHistoryFilters.tsx",
+    "stage": "src__components__game__BetHistoryFilters.tsx"
+  },
+  {
+    "path": "src/components/game/BetPanelContent.tsx",
+    "stage": "src__components__game__BetPanelContent.tsx"
+  },
+  {
+    "path": "src/components/game/BetSheet.tsx",
+    "stage": "src__components__game__BetSheet.tsx"
+  },
+  {
+    "path": "src/components/game/BetSummaryModal.tsx",
+    "stage": "src__components__game__BetSummaryModal.tsx"
+  },
+  {
+    "path": "src/components/game/CashoutConfetti.tsx",
+    "stage": "src__components__game__CashoutConfetti.tsx"
+  },
+  {
+    "path": "src/components/game/CrashAutoBet.tsx",
+    "stage": "src__components__game__CrashAutoBet.tsx"
+  },
+  {
+    "path": "src/components/game/CrashBetStats.tsx",
+    "stage": "src__components__game__CrashBetStats.tsx"
+  },
+  {
+    "path": "src/components/game/CrashDebrisParticles.tsx",
+    "stage": "src__components__game__CrashDebrisParticles.tsx"
+  },
+  {
+    "path": "src/components/game/CrashHistoryPanel.tsx",
+    "stage": "src__components__game__CrashHistoryPanel.tsx"
+  },
+  {
+    "path": "src/components/game/CrashSessionTracker.tsx",
+    "stage": "src__components__game__CrashSessionTracker.tsx"
+  },
+  {
+    "path": "src/components/game/CrashSoundSettings.tsx",
+    "stage": "src__components__game__CrashSoundSettings.tsx"
+  },
+  {
+    "path": "src/components/game/CrashStreakBonus.tsx",
+    "stage": "src__components__game__CrashStreakBonus.tsx"
+  },
+  {
+    "path": "src/components/game/FiveDSlotMachine.tsx",
+    "stage": "src__components__game__FiveDSlotMachine.tsx"
+  },
+  {
+    "path": "src/components/game/GlobalResultModal.tsx",
+    "stage": "src__components__game__GlobalResultModal.tsx"
+  },
+  {
+    "path": "src/components/game/HistoryPagination.tsx",
+    "stage": "src__components__game__HistoryPagination.tsx"
+  },
+  {
+    "path": "src/components/game/HowToPlayModal.tsx",
+    "stage": "src__components__game__HowToPlayModal.tsx"
+  },
+  {
+    "path": "src/components/game/K3BettingPanels.tsx",
+    "stage": "src__components__game__K3BettingPanels.tsx"
+  },
+  {
+    "path": "src/components/game/K3DebugPanel.tsx",
+    "stage": "src__components__game__K3DebugPanel.tsx"
+  },
+  {
+    "path": "src/components/game/K3DiceBoard.tsx",
+    "stage": "src__components__game__K3DiceBoard.tsx"
+  },
+  {
+    "path": "src/components/game/K3RecentResultsStrip.tsx",
+    "stage": "src__components__game__K3RecentResultsStrip.tsx"
+  },
+  {
+    "path": "src/components/game/K3SumBallGrid.tsx",
+    "stage": "src__components__game__K3SumBallGrid.tsx"
+  }
+]

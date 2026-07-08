@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/pages/admin/AgentPayments.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AnnouncementsAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/AviatorGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/BannersAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/CrashGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/DashboardOverview.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/DatabaseAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/DepositsListPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/DualWalletOverview.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/FdAdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/FinancialDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/FiveDGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/GameLaunchNotifications.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/GoogleSearchConsoleSetup.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/InternalAssetPrices.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/K3GameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/KycAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/LuckyHubAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/LuckyHubCentral.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/MarketPricesDebug.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/MinesGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/NewAdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/NewTransactionsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/NewUsersPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PaymentManagement.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PayoutAuditLogs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PremiumAdminDashboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PremiumDepositsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PremiumWithdrawsPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/PromotionCenter.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/ReportsAnalytics.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/RewardsAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SecurityCenter.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SecurityFixCenter.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SuperAdminControlPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SuperAdminPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SupportChatAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/SystemLogs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/TrxWinGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/UnifiedGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/UsdtDepositsAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/UsdtRateAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/UserHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/WinGoGameAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/WithdrawalAccountsAdmin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/WithdrawsListPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/__tests__/AgentPaymentAuditLogs.range.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/__tests__/AgentPaymentAuditLogs.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/__tests__/DualWalletOverview.sorting.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/__tests__/GameLaunchNotifications.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/__tests__/gameLaunchNotificationsMapper.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/admin/gameLaunchNotificationsMapper.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/agent/ApplyPage.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/dev/LuckyHubThemePreview.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/engine/FiveDEngine.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/engine/K3Engine.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/engine/TrxEngine.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/engine/WinGoEngine.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/game-admin/AuditLogs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/game-admin/GlobalSettings.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/game-admin/Statistics.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/AviatorGame.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/CrashGame.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/FiveD.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/K3.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/MinesGame.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/MotoRace.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/TrxWin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/VideoWinGo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/WinGo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/MotoRace.placeBet.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/MotoRace.placeBetError.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/MotoRace.placeBetRetry.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/MotoRace.placeBetTimeout.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/VideoWinGo.placeBet.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/VideoWinGo.placeBetError.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/VideoWinGo.placeBetRetry.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/__tests__/VideoWinGo.placeBetTimeout.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/useWingoResultBanner.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/games/useWingoResultBanner.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/luckyHubThemes.ts",
+      "binary": false
+    },
+    {
+      "path": "src/pages/phase2/CheckIn.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/phase2/SpinWin.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/settings/BadgeSettings.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/settings/__tests__/BadgeSettings.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletAgentTransfer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletAnalytics.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletCenter.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletSecurity.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletThirdParty.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/pages/wallet/WalletTransactionHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/services/sportsApi.ts",
+      "binary": false
+    },
+    {
+      "path": "src/store/useAgentStore.ts",
+      "binary": false
+    },
+    {
+      "path": "src/stories/AviatorServerSeedField.mdx",
+      "binary": false
+    },
+    {
+      "path": "src/test/admin-nav-smoke.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/agent-apply-payload.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-bulk-audit.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-bulk.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-commission-audit-actor.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/test/api-game-controls-commission-audit.test.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy90ZXN0L2FwaS1nYW1lLWNvbnRyb2xzLWNvbW1pc3Npb24tYXVkaXQudGVzdC50cyJ9"
+  },
+  "ref": "HEAD"
+}

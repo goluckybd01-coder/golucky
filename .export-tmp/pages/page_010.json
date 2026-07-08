@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/components/agent/USDTPaymentGateway.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/GlassCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/LogoMark3D.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/LuxeButton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/LuxeInput.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/LuxuryBackground.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth-premium/PremiumPill.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth/AnimatedLogo.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth/AuthBackground.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth/GlassCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth/ModernButton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/auth/ModernInput.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorBetHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorBetPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorChat.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorChatDrawer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorCrashParticles.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorExhaustTrail.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorFairModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorGamePanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorHistoryRow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorLiveBets.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorLiveBetsFeed.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorMiniLeaderboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorPlaneLoader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorPlaneSprite.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorServerSeedField.md",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorServerSeedField.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorSessionStats.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorSessionSummary.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorSettingsDrawer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorSpeedLines.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorStreakBonus.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorStreakMilestone.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorTopBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/AviatorWinStreak.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/__tests__/AviatorServerSeedField.docs.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/components/aviator/__tests__/AviatorServerSeedField.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/cms/CmsSectionRenderer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/debug/ClickDebugOverlay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/debug/DbErrorTraceOverlay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/debug/NavPerfOverlay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/deposit/DepositReceipt.ts",
+      "binary": false
+    },
+    {
+      "path": "src/components/deposit/USDTDepositFlow.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/dev/TapTargetDebug.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/BetPanelHost.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/CountdownTimer.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/CurrentRoundCard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/GameShell.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/HistoryTable.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/MarketTabs.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/PremiumHeader.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/RecentResultsStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/RulesSheet.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/engine/StatisticsPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game-admin/GameAdminGuard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game-admin/GameAdminSidebar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game-admin/__tests__/GameAdminGuard.test.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/AIPredictionHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetDetailsModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetHistoryChart.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetHistoryFilters.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetPanelContent.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetSheet.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/BetSummaryModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CashoutConfetti.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/ClearPendingButton.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CopyablePeriod.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CountdownOverlay.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashAutoBet.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashBetStats.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashDebrisParticles.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashHistoryPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashSessionTracker.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashSoundSettings.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/CrashStreakBonus.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/FiveDSlotMachine.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/GameMessageBar.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/GlobalResultModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/HistoryPagination.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/HowToPlayModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/K3BettingPanels.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/K3DebugPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/K3DiceBoard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/K3RecentResultsStrip.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/K3SumBallGrid.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/Leaderboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/LiveBetsFeed.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/LivePlayersList.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesHistory.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesLeaderboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesProvablyFairModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesRoundDetailsModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesStatsPanel.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MinesStreakIndicator.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/MultiBetResultModal.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/NumberBall.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/PredictionGoals.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/PredictionLeaderboard.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/components/game/PredictionNotifications.tsx",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9jb21wb25lbnRzL2dhbWUvUHJlZGljdGlvbk5vdGlmaWNhdGlvbnMudHN4In0"
+  },
+  "ref": "HEAD"
+}

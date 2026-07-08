@@ -1,0 +1,12 @@
+src/components/game/SuspenseReveal.tsx
+src/components/games/GamesHeroSection.tsx
+src/components/games/PopularAndProviders.tsx
+src/components/home/AIPredictionSection.tsx
+src/components/home/AgentProgramSection.tsx
+src/components/home/AgentRecruitBanner.tsx
+src/components/home/ApiGameProviders.tsx
+src/components/home/CompanyAboutSection.tsx
+src/components/home/DemoGamesSection.tsx
+src/components/home/LiveEarningsChart.tsx
+src/components/home/LiveSportsBettingSection.tsx
+src/components/home/LiveSuperJackpot.tsx

@@ -1,0 +1,14 @@
+[
+  "src/components/aviator/AviatorBetPanel.tsx",
+  "src/components/aviator/AviatorGamePanel.tsx",
+  "src/components/game/PredictionGoals.tsx",
+  "src/components/game/PredictionLeaderboard.tsx",
+  "src/components/game/PredictionNotifications.tsx",
+  "src/components/seo/Seo.tsx",
+  "src/components/trading/TokenLogo.tsx",
+  "src/components/wallet/AgentTransferModal.tsx",
+  "src/components/wallet/AgentTransferToUserModal.tsx",
+  "src/contexts/WalletContext.ts",
+  "src/integrations/supabase/client.ts",
+  "src/lib/assetEmojis.tsx"
+]

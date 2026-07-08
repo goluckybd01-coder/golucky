@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "public/game-logos/pg/captains-bounty.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/circus-delight.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/cocktail-nights.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/crypto-fortune.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/crypto-gold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/diaochan.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/diner-delights.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/double-fortune.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/dragon-hatch.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/dragon-legend.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/dragon-tiger-luck.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/dreams-of-macau.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/egypts-book-mystery.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/emoji-riches.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/emperors-favour.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/farm-invaders.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/flirting-scholar.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-dragon.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-gods.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-mouse.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-ox.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-rabbit.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-tai-chi.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fortune-tiger.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/fruity-candy.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/galactic-gems.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/ganesha-fortune.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/ganesha-gold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/gem-saviour-conquest.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/gem-saviour-sword.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/gem-saviour.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/genies-wishes.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/gladiators-glory.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/groundhog-harvest.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/guardians-ice-fire.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/hawaiian-tiki.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/heist-stakes.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/hip-hop-panda.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/hotpot.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/jack-frosts.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/jewels-prosper.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/journey-to-the-wealth.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/jungle-delight.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/jungle-jam.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/legend-of-hou-yi.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/legendary-monkey-king.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/leprechaun-riches.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/lucky-clover-lady.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/lucky-neko.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/lucky-piggy.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mafia-mayhem.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mahjong-ways.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mahjong-ways2.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mask-carnival.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/medusa.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/medusa2.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mermaid-riches.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mr-hallow-win.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/muay-thai-champion.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/mystical-spirits.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/ninja-vs-samurai.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/opera-dynasty.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/phoenix-rises.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/piggy-gold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/plushie-frenzy.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/prosperity-lion.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/queen-bounty.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/raider-jane-crypt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/reel-love.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/rise-of-apollo.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/rooster-rumble.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/santas-gift-rush.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/sct-cleopatra.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/shaolin-soccer.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/songkran-splash.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/speed-winner.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/super-golf-drive.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/supermarket-spree.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/sushi-oishi.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/symbols-egypt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/thai-river.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/the-great-icescape.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/totem-wonders.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/treasures-aztec.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/vampires-charm.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/ways-of-qilin.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/werewolfs-hunt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/wild-bandito.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/wild-bounty-showdown.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/wild-coaster.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/wild-fireworks.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/win-win-won.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pg/wings-of-iguazu.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1024atlantis.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1024mahjpanda.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1024moonsh.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs10egypt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs10egyptcls.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs10fruity2.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs10madame.webp",
+      "binary": true
+    }
+  ],
+  "pagination": {
+    "next_cursor": "eyJ2IjoxLCJpZCI6InB1YmxpYy9nYW1lLWxvZ29zL3BwL3ZzMTBtYWRhbWUud2VicCJ9",
+    "has_more": true
+  },
+  "ref": "HEAD"
+}

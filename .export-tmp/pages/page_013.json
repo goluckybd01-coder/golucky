@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "src/hooks/useAIChat.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAIPrediction.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminAuth.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminGameTimer.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminOverview.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminSupportChat.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAdminTradingSettings.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAgentCommissionNotifications.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAgentPaymentSettings.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAgentSalaryNotifications.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAgentTierUpgrade.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useApiGameControls.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAudioManager.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAutoRefreshCheckout.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAviatorKeyboardShortcuts.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAviatorLiveBetting.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAviatorLiveSync.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useAviatorSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useBreakpoint.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useCrashRoundSync.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useCrashSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useDualWallet.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useGameBets.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useGameMode.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useGameSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useGameStore.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useIsSuperAdmin.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useLanguage.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useMarketPrices.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useMinesGame.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useMinesSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useParallaxTilt.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePerModeState.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePredictionAccuracy.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePredictionSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePremiumGameSounds.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePullToRefresh.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/usePushNotifications.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useReducedMotion.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useRewardsFeed.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useScrollReveal.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useSupabaseChannel.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useSupportChat.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useTheme.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useTradePositions.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useTransactionNotifications.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useUiSound.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useVIPLevel.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useVisibilityAwareInterval.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useWallet.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useWalletCentreData.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useWalletDB.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useWalletFeed.ts",
+      "binary": false
+    },
+    {
+      "path": "src/hooks/useWithdrawalAccounts.ts",
+      "binary": false
+    },
+    {
+      "path": "src/index.css",
+      "binary": false
+    },
+    {
+      "path": "src/integrations/supabase/client.ts",
+      "binary": false
+    },
+    {
+      "path": "src/integrations/supabase/types.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/agentProfileRls.integration.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/anonWriteLockdown.integration.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/apiFetch.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/attachmentName.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/aviatorQueryNoServerSeed.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/aviatorServerSeedAccess.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/badgeConfig.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/placeBetRetry.backoff.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/readmeScreenshotPaths.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/readmeStressAttachNotice.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/rlsWriteRestrictions.integration.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/sanitizeSegment.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/security-comment-urls.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/stressAttachArtifacts.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/userProfileAdminRls.integration.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/__tests__/userProfileRls.integration.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/achievementService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminApi.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminAuthStore.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminPermissions.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminResultService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminRoundSync.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/adminTotp.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/agentConfig.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/analytics/walletQuickAction.test.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/analytics/walletQuickAction.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/apiFetch.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/assetEmojis.tsx",
+      "binary": false
+    },
+    {
+      "path": "src/lib/attachmentName.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/autoVerifyPredictions.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/aviatorQuery.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/badgeConfig.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/bannerConfig.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/betFees.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/betService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/browserNotifications.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/cashbackService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/challengeService.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/crashGameSettings.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/csvExport.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/currency.ts",
+      "binary": false
+    },
+    {
+      "path": "src/lib/dailyRewardService.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": true,
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNyYy9saWIvZGFpbHlSZXdhcmRTZXJ2aWNlLnRzIn0"
+  },
+  "ref": "HEAD"
+}

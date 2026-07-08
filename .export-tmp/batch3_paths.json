@@ -1,0 +1,20 @@
+[
+  "src/pages/admin/LuckyHubCentral.tsx",
+  "src/pages/admin/PaymentManagement.tsx",
+  "src/pages/admin/SystemLogs.tsx",
+  "src/pages/admin/ReportsAnalytics.tsx",
+  "src/pages/admin/LuckyHubAdmin.tsx",
+  "src/pages/games/MotoRace.tsx",
+  "src/pages/games/VideoWinGo.tsx",
+  "src/pages/games/CrashGame.tsx",
+  "src/pages/settings/BadgeSettings.tsx",
+  "src/pages/admin/CrashGameAdmin.tsx",
+  "src/pages/admin/GameLaunchNotifications.tsx",
+  "src/pages/games/MinesGame.tsx",
+  "src/pages/admin/MinesGameAdmin.tsx",
+  "src/pages/admin/PayoutAuditLogs.tsx",
+  "src/pages/admin/UserHistory.tsx",
+  "src/pages/admin/WinGoGameAdmin.tsx",
+  "src/pages/admin/K3GameAdmin.tsx",
+  "src/pages/admin/FiveDGameAdmin.tsx"
+]

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "path": "tests/visual/home-feature-cards-symmetry.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-hero-cards.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-mobile-hero-banners-parity.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-mobile-neon.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-polish-layout.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/home-tablet-hero-banners-parity.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/live-rewards-ticker-reduced-motion.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/lucky-hub-section-badges.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/profile-command-center-parity.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/reduced-motion.visual.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/section01.py",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/section02-agent-empire.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/section04-reduced-motion.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tests/visual/section12-about.spec.ts",
+      "binary": false
+    },
+    {
+      "path": "tsconfig.app.json",
+      "binary": false
+    },
+    {
+      "path": "tsconfig.json",
+      "binary": false
+    },
+    {
+      "path": "tsconfig.node.json",
+      "binary": false
+    },
+    {
+      "path": "vite.config.ts",
+      "binary": false
+    },
+    {
+      "path": "vitest.config.ts",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "has_more": false
+  },
+  "ref": "HEAD"
+}

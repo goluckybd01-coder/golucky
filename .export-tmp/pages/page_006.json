@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "path": "public/game-logos/pp/vs13g.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs13ladyofmoon.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs15diamond.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs15fairytale.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs18mashang.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1ball.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1dragon8.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1money.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs1tigers.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20bl.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20dhdice.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20doghouse.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20egypt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20egypttrs.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20eightdragons.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20fruitsw.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20godiva.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20hockey.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20leprechaun.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20leprexmas.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20rhino.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20rome.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20santa.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20vegasmagic.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs20wildpix.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs243caishien.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs243crystalcave.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs243fortune.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs243lions.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs243lionsgold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25asgard.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25chilli.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25davinci.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25dragonkingdom.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25dwarves.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25dwarves_new.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25gladiator.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25goldpig.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25goldrush.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25journey.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25kingdomsnojp.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25mustang.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25newyear.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25pandagold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25pantherqueen.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25peking.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25romeoandjuliet.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25safari.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25sea.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25vegas.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25wildspells.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs25wolfgold.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs30catz.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs4096jurassic.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs40beowulf.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs40pirate.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50aladdin.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50amt.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50chinesecharms.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50hercules.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50kingkong.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50pixie.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs50safariking.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs5aztecgems.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs5joker.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs5jokerdice.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs5trdragons.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs5trjokers.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs7fire88.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs7monkeys.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs7pigs.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs9catz.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs9chen.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs9hockey.webp",
+      "binary": true
+    },
+    {
+      "path": "public/game-logos/pp/vs9madmonkey.webp",
+      "binary": true
+    },
+    {
+      "path": "public/golucky-logo.png",
+      "binary": true
+    },
+    {
+      "path": "public/golucky-trading.html",
+      "binary": false
+    },
+    {
+      "path": "public/llms.txt",
+      "binary": false
+    },
+    {
+      "path": "public/lucky-hub-tab.html",
+      "binary": false
+    },
+    {
+      "path": "public/lucky-hub.html",
+      "binary": false
+    },
+    {
+      "path": "public/og-image.png",
+      "binary": true
+    },
+    {
+      "path": "public/placeholder.svg",
+      "binary": true
+    },
+    {
+      "path": "public/pwa-192x192.png",
+      "binary": true
+    },
+    {
+      "path": "public/pwa-512x512.png",
+      "binary": true
+    },
+    {
+      "path": "public/reports/manifest.json",
+      "binary": false
+    },
+    {
+      "path": "public/reports/security-scan-report-2026-06-30.pdf",
+      "binary": false
+    },
+    {
+      "path": "public/robots.txt",
+      "binary": false
+    },
+    {
+      "path": "public/sitemap.xml",
+      "binary": false
+    },
+    {
+      "path": "public/wingo-static/debug.js",
+      "binary": false
+    },
+    {
+      "path": "public/wingo-static/gameConfig.js",
+      "binary": false
+    },
+    {
+      "path": "public/wingo-static/index.html",
+      "binary": false
+    },
+    {
+      "path": "public/wingo-static/main.js",
+      "binary": false
+    },
+    {
+      "path": "ref2.jpg",
+      "binary": true
+    },
+    {
+      "path": "ref3.jpg",
+      "binary": true
+    },
+    {
+      "path": "scripts/capture-wallet-reference.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/check-home-overflow.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/check-token-logo.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/compress-images.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/diff-wallet-references.mjs",
+      "binary": false
+    },
+    {
+      "path": "scripts/footer-links-coverage.mjs",
+      "binary": false
+    }
+  ],
+  "pagination": {
+    "next_cursor": "eyJ2IjoxLCJpZCI6InNjcmlwdHMvZm9vdGVyLWxpbmtzLWNvdmVyYWdlLm1qcyJ9",
+    "has_more": true
+  },
+  "ref": "HEAD"
+}

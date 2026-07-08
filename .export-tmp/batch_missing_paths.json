@@ -1,0 +1,18 @@
+[
+  "src/components/game/GlobalResultModal.tsx",
+  "src/components/game/SuspenseReveal.tsx",
+  "src/components/deposit/USDTDepositFlow.tsx",
+  "src/components/aviator/AviatorLiveBets.tsx",
+  "src/components/aviator/AviatorStreakBonus.tsx",
+  "src/components/game/CrashSessionTracker.tsx",
+  "src/components/game/CrashSoundSettings.tsx",
+  "src/components/game/K3DiceBoard.tsx",
+  "src/components/game/LiveBetsFeed.tsx",
+  "src/components/game/LivePlayersList.tsx",
+  "src/components/game/ProvablyFairDisplay.tsx",
+  "src/components/admin/unified/StaffManagement.tsx",
+  "src/components/admin/unified/UsersModule.tsx",
+  "src/components/admin/unified/WithdrawRequestsModule.tsx",
+  "src/hooks/useAuth.ts",
+  "src/hooks/useAudioManager.ts"
+]
